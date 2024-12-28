@@ -52,7 +52,6 @@ function generatepdf () {
           <td>'.$gender.'</td>
           <td>'.$email.'</td>
           <td>'.$contact.'</td>
-          
         </tr>';
       $i++;
       }
