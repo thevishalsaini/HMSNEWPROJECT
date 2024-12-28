@@ -36,7 +36,6 @@ function display_docs()
 	}
 }
 
-
 function display_admin_panel(){
 	echo '<!DOCTYPE html>
 <html lang="en">
